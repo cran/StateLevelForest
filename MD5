@@ -1,0 +1,13 @@
+39c6cd48e00feabe5c634766f5d6f6d7 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+472e629548d2bd96451ed144f0ee3d08 *NEWS.md
+0e995f4233e25bcbb9e9aa1c0e3457ea *R/StateLevelForest.R
+0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
+3b92392188104e9de09c664a39fc0f1d *build/vignette.rds
+6baf6d9e3d997c6cf31e5e673dc0fb65 *data/StateLevelForest.csv
+ae0c33ebc5266a12d7d289133a3ba6f3 *data/StateLevelForest.rda
+b1a15e2a6caa7b08735c56e634599a52 *inst/doc/vignette.R
+a5c51c5bf9b64b62f7d203e662a106b4 *inst/doc/vignette.Rmd
+5764d6a9383103090655d27f21af8b84 *inst/doc/vignette.pdf
+3dd8b99766f71c0f82c0d7284b2c8da2 *man/StateLevelForest.Rd
+a5c51c5bf9b64b62f7d203e662a106b4 *vignettes/vignette.Rmd
